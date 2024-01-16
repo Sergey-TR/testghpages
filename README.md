@@ -20,6 +20,9 @@ npm install
 
 ```sh
 npm run dev
+
+
+## install npm install gh-pages --save-dev
 ```
 
 ### Compile and Minify for Production
